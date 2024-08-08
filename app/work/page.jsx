@@ -83,7 +83,7 @@ const projects = [
       "An application for managing employee records using SQL for data storage and Node.js/Express.js for server-side functionality.",
     stack: [{ name: "JS" }, { name: "SQL" }, { name: "Node.js" }, { name: "Express.js" }],
     image: "/assets/work/thumb6.png",
-    live: "",
+    live: "/assets/work/staff-link.webm",
     github: "https://github.com/haartmuhn/staff-link",
   },
   {
@@ -94,7 +94,7 @@ const projects = [
       "An API for a social networking application using NoSQL, demonstrating your ability to manage and scale data structures.",
     stack: [{ name: "JS" }, { name: "MongoDB" }, { name: "Node.js" }, { name: "Express.js" }],
     image: "/assets/work/thumb7.png",
-    live: "",
+    live: "/assets/work/thought-stream.webm",
     github: "https://github.com/haartmuhn/thought-stream",
   },
   {
@@ -105,7 +105,7 @@ const projects = [
       "A tool for generating custom SVG logos, highlighting your understanding of object-oriented programming principles and modular code design.",
     stack: [{ name: "JS" }, { name: "Node.js" }],
     image: "/assets/work/thumb8.png",
-    live: "",
+    live: "/assets/work/logo-genius.webm",
     github: "https://github.com/haartmuhn/logo-genius",
   },
   {
