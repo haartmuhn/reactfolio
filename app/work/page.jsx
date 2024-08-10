@@ -127,7 +127,7 @@ const projects = [
       "A highly interactive front-end application, demonstrating your skills in building dynamic user interfaces and enhancing user experience.",
     stack: [{ name: "HTML" }, { name: "CSS" }, { name: "JS" }, { name: "SQL" }, { name: "Node.js" }, { name: "Express.js" }],
     image: "/assets/work/thumb10.png",
-    live: "https://gamechaser.onrender.com/",
+    live: "https://gamechaser-wlza.onrender.com",
     github: "https://github.com/haartmuhn/GameChaser",
   },
 ];
