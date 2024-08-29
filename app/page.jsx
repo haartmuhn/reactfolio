@@ -27,6 +27,9 @@ const Home = () => {
                 variant="outline"
                 size="lg"
                 className="uppercase flex items-center gap-2"
+                as="a"
+                href="/resume.pdf"
+                download
               >
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
