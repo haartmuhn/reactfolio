@@ -76,7 +76,11 @@ npm start
 -   Click on "New site from Git" and connect your GitHub repository.
 -   Follow the prompts to deploy your site.
 
+The following image and video shows the web application's appearance and functionality: 
+
 <div align="center">
+
+![alt text](./public/reactfolio.png)
 
 [Visit my website](https://haartmuhn.netlify.app)
 
